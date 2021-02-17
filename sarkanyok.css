@@ -21,6 +21,8 @@ a:hover {
 
 .jobbrakep {
     float: right;
+    width: 300px;
+    margin:  20px;
 }
 .forras {
     font-size: 10px;
