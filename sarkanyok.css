@@ -1,6 +1,7 @@
 body {
     background-image: url(hatterkep.jpg);
     font-family: sans-serif;
+    text-align: justify;
 }
 .keret {
     padding: 30px;
@@ -23,6 +24,5 @@ a:hover {
 }
 .forras {
     font-size: 10px;
-    float: right;
-    
+    float: right;   
 }
